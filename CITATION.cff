@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: >-
+  Software citation for the local candidate. Review the exact file list
+  and artifact before separately authorizing any first private push.
+type: software
+title: "nbpearson: explicit negative-binomial Pearson-residual linear operators"
+version: 0.1.0.dev1
+authors:
+  - family-names: Kone
+    given-names: Mohamed
+abstract: >-
+  Python CPU/binary64 operators with explicit interpolated,
+  interpolated-grouped and exact-grouped representations of a fixed
+  negative-binomial Pearson-residual target. Software attribution follows
+  the investigator-supplied Software contribution of Mohamed Kone.
+  Original code uses MIT with Copyright (c) 2026 Mohamed Kone, based on
+  his explicit ownership and distribution-authority assertion. No public
+  release, tag or DOI is asserted by this candidate.
+license: MIT
+repository-code: "https://github.com/mohkone/nbpearson"
+keywords:
+  - sparse counts
+  - Pearson residuals
+  - negative binomial
+  - linear operators

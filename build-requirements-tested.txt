@@ -1,0 +1,3 @@
+# Existing build backend used; these are separate from runtime requirements.
+setuptools==68.1.2
+wheel==0.42.0

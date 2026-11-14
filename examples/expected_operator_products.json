@@ -1,0 +1,62 @@
+{
+  "without_pca": {
+    "version": "0.1.0.dev1",
+    "shape": [
+      16,
+      3
+    ],
+    "representation": "exact_grouped",
+    "distinct_depths": 2,
+    "product_shapes": [
+      [
+        16
+      ],
+      [
+        3
+      ],
+      [
+        16,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "interpolation_nodes": null,
+    "floating_validation": "NOT_EVALUATED",
+    "direct_formula_checks": "PASS_FOUR_PRODUCTS",
+    "input_unchanged": true,
+    "external_pca": "NOT_REQUESTED"
+  },
+  "with_pca": {
+    "version": "0.1.0.dev1",
+    "shape": [
+      16,
+      3
+    ],
+    "representation": "exact_grouped",
+    "distinct_depths": 2,
+    "product_shapes": [
+      [
+        16
+      ],
+      [
+        3
+      ],
+      [
+        16,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "interpolation_nodes": null,
+    "floating_validation": "NOT_EVALUATED",
+    "direct_formula_checks": "PASS_FOUR_PRODUCTS",
+    "input_unchanged": true,
+    "external_pca": "PASS_ONE_TRIPLET"
+  }
+}

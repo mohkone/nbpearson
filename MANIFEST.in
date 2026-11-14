@@ -1,0 +1,8 @@
+include README.md INSTALL.md LICENSE THIRD_PARTY_NOTICES.md CITATION.cff
+include requirements-tested.txt build-requirements-tested.txt
+recursive-include src/nbpearson *.py
+recursive-include tests test_*.py
+recursive-include examples *.py *.json
+global-exclude __pycache__ *.py[cod] .DS_Store
+prune build
+prune dist
