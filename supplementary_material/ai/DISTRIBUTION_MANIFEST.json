@@ -1,0 +1,648 @@
+{
+  "format": "nbpearson-ai-output-public-supplement-v1",
+  "source_inventory_sha256": "9026465ff7378a2ec0c98f98ec007d73b00c1ea7708a55a4bd2bd19258c9db59",
+  "selection_original_count": 39,
+  "original_legal_context_files": 4,
+  "files": [
+    {
+      "path": "DISCLOSURE_METADATA.json",
+      "bytes": 2597,
+      "sha256": "c89afc7786909c67e7b9b6c3b237b6a8019cd630e37378671092bf86f1b125ae"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2214,
+      "sha256": "fff43bdd76614c1c3591edef4087e19736637f21cafdcd54ba48e35e7016bbc7"
+    },
+    {
+      "path": "RIGHTS_AND_SCOPE.md",
+      "bytes": 2172,
+      "sha256": "286d68405e169db2c716754945a481a0546c6783bb2449fadd30ca9e2bd51fbe"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure 1.pdf",
+      "bytes": 37459,
+      "sha256": "6df24d2bef84a7d5e83160b480f32f43027d87e18f4f9462e661680dce365014"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure 2.pdf",
+      "bytes": 44757,
+      "sha256": "265e66c4676a0c6fd9d45e1def472e5d18a05e40a4a901d3a447e9fb83079871"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure 3.pdf",
+      "bytes": 54073,
+      "sha256": "9ae160bd0504d97d868f412d95c047a415e8f8f7074a7da10ed30bf2eb607137"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S1 supplementary material.pdf",
+      "bytes": 53561,
+      "sha256": "4e83767bb4acf18a47a75093591d4369bdf94ff786b2386564dbe1a0fa62aa62"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S2 supplementary material.pdf",
+      "bytes": 31863,
+      "sha256": "63cd82f228e8496b7b00cdf0d182445640a26207a5f64df6db3e04c59249d1ac"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S3 supplementary material.pdf",
+      "bytes": 30770,
+      "sha256": "d5e5f4820143080d3f5c886879321a17fa5ae92a744eceea4fba6a6773c882e1"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S4 supplementary material.pdf",
+      "bytes": 29131,
+      "sha256": "7076802f54beac356c66fe90f9ad05de94e078b60883f477f8a9709106e33d62"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S5 supplementary material.pdf",
+      "bytes": 34031,
+      "sha256": "a540390c103dfe102bb715e343a633c574b278987d5c059e00c7f0d37a9d893e"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure2_costs.csv",
+      "bytes": 105860,
+      "sha256": "2396098e66446dd8c503cd0525e9884b5ab93c0a1ab7c2b3752a8f7fbdb678b8"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure2_products.csv",
+      "bytes": 135812,
+      "sha256": "baa2bd250546ab03452cbd1c002c94045cc91e5c4f2ad583d41b90c760aee71c"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure3_nonexecutions.csv",
+      "bytes": 1585,
+      "sha256": "86f07c6166a26796939deb580d77bddf90633cfbf13b583b73eb2a5e81d985c7"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure3_points.csv",
+      "bytes": 499655,
+      "sha256": "a7e3d913fd894a0f11b2c96ea3b4f6909f03624e96d9c41dac156bddad34ffec"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure4_overview.csv",
+      "bytes": 59280,
+      "sha256": "8954612ac5c6e3f1cc034b323b999d209ca571b89b38e96fde51e3c654a886fb"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure4_products.csv",
+      "bytes": 48979,
+      "sha256": "9d0c0784407221d6e53c2aa6b0c215ce6a10a12c08d4c770e1f6d162e9278158"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/pinned_plot_data/historical_s1.csv",
+      "bytes": 65845,
+      "sha256": "08a40d84b2d1beefcda3472ad4e282088d626be082c62bb12408c41eaa2a34a4"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/scripts/production_style.py",
+      "bytes": 6575,
+      "sha256": "15711cc755bdc0864238cc8c2018bb02a6a3c17b1dfffc28941e47101d559ab1"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/source_scripts/plot_figure1.py",
+      "bytes": 4549,
+      "sha256": "2d7792d8b16162682be1c735b69d63ae404dee19d9c27d92b52f9a82d11450b9"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/source_scripts/plot_figure2.py",
+      "bytes": 14864,
+      "sha256": "242160e6e6bdafedbadf1b126a6c48d13baff87fe3e2021d6fff559256dd442f"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/source_scripts/plot_figure3.py",
+      "bytes": 14687,
+      "sha256": "70943d878cad0522aa9940680b9c889883d7b38d6b5ac957112604e4f7cc76b6"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/source_scripts/plot_figure4.py",
+      "bytes": 13510,
+      "sha256": "4893af36726d00fce7934bc4f4a32ad144f06f0edf60c13554a12d0fcf3c2f06"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/source_scripts/plot_historical_s1.py",
+      "bytes": 12930,
+      "sha256": "909bc212b41b504c717a444de5bd56bdbffa6e01171cf2f88f915dd6322b4f86"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_figure_production_v1/source_scripts/plot_style.py",
+      "bytes": 1944,
+      "sha256": "66a7bd9d097d1c1408aace2cbd8e05fbe4a150a8fa48be90dda96c0afc7847f6"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/INSTALL.md",
+      "bytes": 3508,
+      "sha256": "b277d162368730495aa95f690598db9abdeaddf326b6f3d2e44326f594a91f3c"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/LICENSE",
+      "bytes": 1069,
+      "sha256": "f58da69f074741558a2e723a506477e43cd8d3b042f75a77aada60e88bf660b9"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/README.md",
+      "bytes": 7178,
+      "sha256": "4e64e1ffd4e0fa66653b053f0b9d50b063ee13f0ee5451b9165d44094d14503c"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/THIRD_PARTY_NOTICES.md",
+      "bytes": 2104,
+      "sha256": "92cd3ffbb921db4e2a80897954ebe7a1c4c1c7106f1682848fcff539635dfdab"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/examples/minimal_counts.py",
+      "bytes": 1177,
+      "sha256": "371beb8eeaf2364d48a8faa7135666ef23338f53f897230cf9bbe59726908eb7"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/examples/operator_products.py",
+      "bytes": 3539,
+      "sha256": "cedf688210861decb212f29666480f6a758feeea2a154f9439b4433e130a0123"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/__init__.py",
+      "bytes": 362,
+      "sha256": "933bd8b02613e26c0fd4cdfc48b8509b90c8c59b44d9890db95b9831f7227136"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/_api.py",
+      "bytes": 6806,
+      "sha256": "9ba30641a32e4240e186d1e4d54040fceb97d3a2528ea3abcc4726f56ea98e57"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/_numerics.py",
+      "bytes": 10146,
+      "sha256": "05e4103202cf2449cc626260fe970d6283bb703918b03a2dcd211470e57cfa65"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/_operators.py",
+      "bytes": 5651,
+      "sha256": "d14294696fb67dbe901a40533fb7471244b60e4075e59a1c177e246e9bc53cf1"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/_validation.py",
+      "bytes": 5676,
+      "sha256": "04a8f6cce8335d31c495be111cabb76455fbe57049035fe6eaee43125f4b0d21"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_api.py",
+      "bytes": 8515,
+      "sha256": "e330ddf9f5d81323594854f037eca814ae9ad3483c06992aadb6754eb192d0bf"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_autonomous_stability.py",
+      "bytes": 4722,
+      "sha256": "2f39746bf883a373e5af9e67891b8e26bd8917bb5e7bff126b7da7470c6e5883"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_fidelity.py",
+      "bytes": 7989,
+      "sha256": "023ee9341f4fef62a23afdb5ac7371bfb0b1925812a68ef0fd3fbbae5f58373a"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_maintenance.py",
+      "bytes": 4658,
+      "sha256": "53b68321e393f290bda0c89dae06a8ad5a44d4cbfde3af4daacec73563c12ffd"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_review_regressions.py",
+      "bytes": 3590,
+      "sha256": "1c586c809f9865e278768759e4c9aa8ecb946290a636801e13fe1a02fc181d4c"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/LICENSE",
+      "bytes": 1069,
+      "sha256": "f58da69f074741558a2e723a506477e43cd8d3b042f75a77aada60e88bf660b9"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/THIRD_PARTY_NOTICES.md",
+      "bytes": 2104,
+      "sha256": "92cd3ffbb921db4e2a80897954ebe7a1c4c1c7106f1682848fcff539635dfdab"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/expected/verified_outputs.json",
+      "bytes": 11346,
+      "sha256": "2d694b97cda054d69d4a32f9e3983e75e6fcc030a320e13382c891fd83fd7aa5"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/fixture/counts_csr.json",
+      "bytes": 1375,
+      "sha256": "f70546659ae6056f74ad78567f6ca93eadbbf082191ca673c3a8ef719d44c373"
+    },
+    {
+      "path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/tutorial.py",
+      "bytes": 8275,
+      "sha256": "ea6af5a76e0d00697dd9041494a87d521ddcc119ad5259f7a70bbf42627edaae"
+    },
+    {
+      "path": "verify_manifest.py",
+      "bytes": 995,
+      "sha256": "e57fa5d2a7c6d9192a998f94e65b51ef70b6b66f91dbd2545e4982afa77b21c0"
+    }
+  ],
+  "self_exclusions": [
+    "FILE_MANIFEST.json",
+    "SHA256SUMS"
+  ],
+  "selected_original_files": [
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/__init__.py",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/__init__.py",
+      "bytes": 362,
+      "sha256": "933bd8b02613e26c0fd4cdfc48b8509b90c8c59b44d9890db95b9831f7227136",
+      "group": "software_or_tests",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/_api.py",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/_api.py",
+      "bytes": 6806,
+      "sha256": "9ba30641a32e4240e186d1e4d54040fceb97d3a2528ea3abcc4726f56ea98e57",
+      "group": "software_or_tests",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/_numerics.py",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/_numerics.py",
+      "bytes": 10146,
+      "sha256": "05e4103202cf2449cc626260fe970d6283bb703918b03a2dcd211470e57cfa65",
+      "group": "software_or_tests",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/_operators.py",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/_operators.py",
+      "bytes": 5651,
+      "sha256": "d14294696fb67dbe901a40533fb7471244b60e4075e59a1c177e246e9bc53cf1",
+      "group": "software_or_tests",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/_validation.py",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/src/nbpearson/_validation.py",
+      "bytes": 5676,
+      "sha256": "04a8f6cce8335d31c495be111cabb76455fbe57049035fe6eaee43125f4b0d21",
+      "group": "software_or_tests",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_api.py",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_api.py",
+      "bytes": 8515,
+      "sha256": "e330ddf9f5d81323594854f037eca814ae9ad3483c06992aadb6754eb192d0bf",
+      "group": "software_or_tests",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_autonomous_stability.py",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_autonomous_stability.py",
+      "bytes": 4722,
+      "sha256": "2f39746bf883a373e5af9e67891b8e26bd8917bb5e7bff126b7da7470c6e5883",
+      "group": "software_or_tests",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_fidelity.py",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_fidelity.py",
+      "bytes": 7989,
+      "sha256": "023ee9341f4fef62a23afdb5ac7371bfb0b1925812a68ef0fd3fbbae5f58373a",
+      "group": "software_or_tests",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_maintenance.py",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_maintenance.py",
+      "bytes": 4658,
+      "sha256": "53b68321e393f290bda0c89dae06a8ad5a44d4cbfde3af4daacec73563c12ffd",
+      "group": "software_or_tests",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_review_regressions.py",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/tests/test_review_regressions.py",
+      "bytes": 3590,
+      "sha256": "1c586c809f9865e278768759e4c9aa8ecb946290a636801e13fe1a02fc181d4c",
+      "group": "software_or_tests",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/examples/minimal_counts.py",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/examples/minimal_counts.py",
+      "bytes": 1177,
+      "sha256": "371beb8eeaf2364d48a8faa7135666ef23338f53f897230cf9bbe59726908eb7",
+      "group": "software_or_tests",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/examples/operator_products.py",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/examples/operator_products.py",
+      "bytes": 3539,
+      "sha256": "cedf688210861decb212f29666480f6a758feeea2a154f9439b4433e130a0123",
+      "group": "software_or_tests",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/README.md",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/README.md",
+      "bytes": 7178,
+      "sha256": "4e64e1ffd4e0fa66653b053f0b9d50b063ee13f0ee5451b9165d44094d14503c",
+      "group": "software_documentation",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/INSTALL.md",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/INSTALL.md",
+      "bytes": 3508,
+      "sha256": "b277d162368730495aa95f690598db9abdeaddf326b6f3d2e44326f594a91f3c",
+      "group": "software_documentation",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/tutorial.py",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/tutorial.py",
+      "bytes": 8275,
+      "sha256": "ea6af5a76e0d00697dd9041494a87d521ddcc119ad5259f7a70bbf42627edaae",
+      "group": "tutorial_and_context",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/fixture/counts_csr.json",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/fixture/counts_csr.json",
+      "bytes": 1375,
+      "sha256": "f70546659ae6056f74ad78567f6ca93eadbbf082191ca673c3a8ef719d44c373",
+      "group": "tutorial_and_context",
+      "role": "SCIENTIFIC_OR_SYNTHETIC_CONTEXT_NOT_AI_CREATED_OBSERVATIONS",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/expected/verified_outputs.json",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/expected/verified_outputs.json",
+      "bytes": 11346,
+      "sha256": "2d694b97cda054d69d4a32f9e3983e75e6fcc030a320e13382c891fd83fd7aa5",
+      "group": "tutorial_and_context",
+      "role": "SCIENTIFIC_OR_SYNTHETIC_CONTEXT_NOT_AI_CREATED_OBSERVATIONS",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure 1.pdf",
+      "source_path": "nbpearson_gigascience_figure_production_v1/figures_candidate/Figure 1.pdf",
+      "bytes": 37459,
+      "sha256": "6df24d2bef84a7d5e83160b480f32f43027d87e18f4f9462e661680dce365014",
+      "group": "production_figure",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure 2.pdf",
+      "source_path": "nbpearson_gigascience_figure_production_v1/figures_candidate/Figure 2.pdf",
+      "bytes": 44757,
+      "sha256": "265e66c4676a0c6fd9d45e1def472e5d18a05e40a4a901d3a447e9fb83079871",
+      "group": "production_figure",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure 3.pdf",
+      "source_path": "nbpearson_gigascience_figure_production_v1/figures_candidate/Figure 3.pdf",
+      "bytes": 54073,
+      "sha256": "9ae160bd0504d97d868f412d95c047a415e8f8f7074a7da10ed30bf2eb607137",
+      "group": "production_figure",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S1 supplementary material.pdf",
+      "source_path": "nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S1 supplementary material.pdf",
+      "bytes": 53561,
+      "sha256": "4e83767bb4acf18a47a75093591d4369bdf94ff786b2386564dbe1a0fa62aa62",
+      "group": "production_figure",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S2 supplementary material.pdf",
+      "source_path": "nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S2 supplementary material.pdf",
+      "bytes": 31863,
+      "sha256": "63cd82f228e8496b7b00cdf0d182445640a26207a5f64df6db3e04c59249d1ac",
+      "group": "production_figure",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S3 supplementary material.pdf",
+      "source_path": "nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S3 supplementary material.pdf",
+      "bytes": 30770,
+      "sha256": "d5e5f4820143080d3f5c886879321a17fa5ae92a744eceea4fba6a6773c882e1",
+      "group": "production_figure",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S4 supplementary material.pdf",
+      "source_path": "nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S4 supplementary material.pdf",
+      "bytes": 29131,
+      "sha256": "7076802f54beac356c66fe90f9ad05de94e078b60883f477f8a9709106e33d62",
+      "group": "production_figure",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S5 supplementary material.pdf",
+      "source_path": "nbpearson_gigascience_figure_production_v1/figures_candidate/Figure S5 supplementary material.pdf",
+      "bytes": 34031,
+      "sha256": "a540390c103dfe102bb715e343a633c574b278987d5c059e00c7f0d37a9d893e",
+      "group": "production_figure",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/source_scripts/plot_figure1.py",
+      "source_path": "nbpearson_gigascience_figure_production_v1/source_scripts/plot_figure1.py",
+      "bytes": 4549,
+      "sha256": "2d7792d8b16162682be1c735b69d63ae404dee19d9c27d92b52f9a82d11450b9",
+      "group": "figure_script",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/source_scripts/plot_figure2.py",
+      "source_path": "nbpearson_gigascience_figure_production_v1/source_scripts/plot_figure2.py",
+      "bytes": 14864,
+      "sha256": "242160e6e6bdafedbadf1b126a6c48d13baff87fe3e2021d6fff559256dd442f",
+      "group": "figure_script",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/source_scripts/plot_figure3.py",
+      "source_path": "nbpearson_gigascience_figure_production_v1/source_scripts/plot_figure3.py",
+      "bytes": 14687,
+      "sha256": "70943d878cad0522aa9940680b9c889883d7b38d6b5ac957112604e4f7cc76b6",
+      "group": "figure_script",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/source_scripts/plot_figure4.py",
+      "source_path": "nbpearson_gigascience_figure_production_v1/source_scripts/plot_figure4.py",
+      "bytes": 13510,
+      "sha256": "4893af36726d00fce7934bc4f4a32ad144f06f0edf60c13554a12d0fcf3c2f06",
+      "group": "figure_script",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/source_scripts/plot_historical_s1.py",
+      "source_path": "nbpearson_gigascience_figure_production_v1/source_scripts/plot_historical_s1.py",
+      "bytes": 12930,
+      "sha256": "909bc212b41b504c717a444de5bd56bdbffa6e01171cf2f88f915dd6322b4f86",
+      "group": "figure_script",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/source_scripts/plot_style.py",
+      "source_path": "nbpearson_gigascience_figure_production_v1/source_scripts/plot_style.py",
+      "bytes": 1944,
+      "sha256": "66a7bd9d097d1c1408aace2cbd8e05fbe4a150a8fa48be90dda96c0afc7847f6",
+      "group": "figure_script",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/scripts/production_style.py",
+      "source_path": "nbpearson_gigascience_figure_production_v1/scripts/production_style.py",
+      "bytes": 6575,
+      "sha256": "15711cc755bdc0864238cc8c2018bb02a6a3c17b1dfffc28941e47101d559ab1",
+      "group": "figure_script",
+      "role": "RELEVANT_REPORTED_AI_ASSISTED_OUTPUT_PER_FILE_GENERATION_EXTENT_UNKNOWN",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure2_costs.csv",
+      "source_path": "nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure2_costs.csv",
+      "bytes": 105860,
+      "sha256": "2396098e66446dd8c503cd0525e9884b5ab93c0a1ab7c2b3752a8f7fbdb678b8",
+      "group": "figure_scientific_context",
+      "role": "SCIENTIFIC_OR_SYNTHETIC_CONTEXT_NOT_AI_CREATED_OBSERVATIONS",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure2_products.csv",
+      "source_path": "nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure2_products.csv",
+      "bytes": 135812,
+      "sha256": "baa2bd250546ab03452cbd1c002c94045cc91e5c4f2ad583d41b90c760aee71c",
+      "group": "figure_scientific_context",
+      "role": "SCIENTIFIC_OR_SYNTHETIC_CONTEXT_NOT_AI_CREATED_OBSERVATIONS",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure3_nonexecutions.csv",
+      "source_path": "nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure3_nonexecutions.csv",
+      "bytes": 1585,
+      "sha256": "86f07c6166a26796939deb580d77bddf90633cfbf13b583b73eb2a5e81d985c7",
+      "group": "figure_scientific_context",
+      "role": "SCIENTIFIC_OR_SYNTHETIC_CONTEXT_NOT_AI_CREATED_OBSERVATIONS",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure3_points.csv",
+      "source_path": "nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure3_points.csv",
+      "bytes": 499655,
+      "sha256": "a7e3d913fd894a0f11b2c96ea3b4f6909f03624e96d9c41dac156bddad34ffec",
+      "group": "figure_scientific_context",
+      "role": "SCIENTIFIC_OR_SYNTHETIC_CONTEXT_NOT_AI_CREATED_OBSERVATIONS",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure4_overview.csv",
+      "source_path": "nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure4_overview.csv",
+      "bytes": 59280,
+      "sha256": "8954612ac5c6e3f1cc034b323b999d209ca571b89b38e96fde51e3c654a886fb",
+      "group": "figure_scientific_context",
+      "role": "SCIENTIFIC_OR_SYNTHETIC_CONTEXT_NOT_AI_CREATED_OBSERVATIONS",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure4_products.csv",
+      "source_path": "nbpearson_gigascience_figure_production_v1/pinned_plot_data/figure4_products.csv",
+      "bytes": 48979,
+      "sha256": "9d0c0784407221d6e53c2aa6b0c215ce6a10a12c08d4c770e1f6d162e9278158",
+      "group": "figure_scientific_context",
+      "role": "SCIENTIFIC_OR_SYNTHETIC_CONTEXT_NOT_AI_CREATED_OBSERVATIONS",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_figure_production_v1/pinned_plot_data/historical_s1.csv",
+      "source_path": "nbpearson_gigascience_figure_production_v1/pinned_plot_data/historical_s1.csv",
+      "bytes": 65845,
+      "sha256": "08a40d84b2d1beefcda3472ad4e282088d626be082c62bb12408c41eaa2a34a4",
+      "group": "figure_scientific_context",
+      "role": "SCIENTIFIC_OR_SYNTHETIC_CONTEXT_NOT_AI_CREATED_OBSERVATIONS",
+      "distribution_basis": "Investigator authorized relevant selected outputs on 17 November 2026; unchanged original own-project material. Software licence and third-party exclusions retained."
+    }
+  ],
+  "excluded_inventory_files": [
+    {
+      "source_path": "nbpearson_gigascience_final_integration_v1/FINAL_GIGASCIENCE_AUTHOR_CANDIDATE.md",
+      "bytes": 36457,
+      "sha256": "1f4bfa89c8d63a93f536edc39486bb0586bb2380e0344dc49ecbf4264606745a",
+      "group": "relied_on_manuscript_text",
+      "decision": "EXCLUDE_SUPERSEDED_TEXT",
+      "reason": "Superseded historical integrated text; final editorial manuscript is managed separately. Exclude obsolete administrative/history content and any unverified model label rather than edit original."
+    },
+    {
+      "source_path": "nbpearson_gigascience_final_integration_v1/SUPPLEMENTARY_DIAGNOSTIC_ADDENDUM.md",
+      "bytes": 36493,
+      "sha256": "3e7e152943334eb6b4763c277167bc7d287d5d9bab790c0d65f26a225a2a6f2a",
+      "group": "relied_on_manuscript_text",
+      "decision": "EXCLUDE_SUPERSEDED_TEXT",
+      "reason": "Superseded historical integrated text; final editorial manuscript is managed separately. Exclude obsolete administrative/history content and any unverified model label rather than edit original."
+    }
+  ],
+  "legal_context": [
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/LICENSE",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/LICENSE",
+      "bytes": 1069,
+      "sha256": "f58da69f074741558a2e723a506477e43cd8d3b042f75a77aada60e88bf660b9",
+      "role": "Original legal context; not characterized as AI-generated output"
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/THIRD_PARTY_NOTICES.md",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/A_frozen_source/THIRD_PARTY_NOTICES.md",
+      "bytes": 2104,
+      "sha256": "92cd3ffbb921db4e2a80897954ebe7a1c4c1c7106f1682848fcff539635dfdab",
+      "role": "Original legal context; not characterized as AI-generated output"
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/LICENSE",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/LICENSE",
+      "bytes": 1069,
+      "sha256": "f58da69f074741558a2e723a506477e43cd8d3b042f75a77aada60e88bf660b9",
+      "role": "Original legal context; not characterized as AI-generated output"
+    },
+    {
+      "archive_path": "original_outputs/nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/THIRD_PARTY_NOTICES.md",
+      "source_path": "nbpearson_gigascience_reviewer_final_v1/reviewer_package/B_example/THIRD_PARTY_NOTICES.md",
+      "bytes": 2104,
+      "sha256": "92cd3ffbb921db4e2a80897954ebe7a1c4c1c7106f1682848fcff539635dfdab",
+      "role": "Original legal context; not characterized as AI-generated output"
+    }
+  ]
+}
