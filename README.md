@@ -1,6 +1,6 @@
 # nbpearson
 
-**Local release candidate V2 for separate private-push approval.** Original nbpearson code is prepared under the MIT licence with `Copyright (c) 2026 Mohamed Kone`, following Mohamed Kone's explicit ownership and distribution-authority assertion. The investigator states that the designated destination, <https://github.com/mohkone/nbpearson>, is private. This copy does not establish a new remote-state check, public availability, release tag or DOI. Any first private push requires separate approval of the exact proposed file list.
+**Public source repository for nbpearson 0.1.0.dev1.** This repository contains the MIT-licensed software source, with `Copyright (c) 2026 Mohamed Kone`. The numerical implementation evaluated for the manuscript is preserved at commit [`c0f41107f888d69713c8e22e488bf1e7386f8c4d`](https://github.com/mohkone/nbpearson/commit/c0f41107f888d69713c8e22e488bf1e7386f8c4d). This source repository does not contain biological datasets, benchmark archives, private author records, or experiment runtimes.
 
 nbpearson 0.1.0.dev1 supplies three explicitly selected CPU/binary64 linear operators for fixed negative-binomial Pearson residuals of sparse integer counts. The five Python modules preserve evaluated dev1 source. Packaging and supporting materials are new; a rebuilt wheel has its own hash.
 
@@ -87,7 +87,7 @@ requirements-tested.txt  tested runtime versions
 build-requirements-tested.txt  tested backend versions
 LICENSE              MIT licence for original code; 2026 Mohamed Kone
 THIRD_PARTY_NOTICES.md    provenance/dependency terms
-CITATION.cff         software attribution; exact candidate reviewed before push
+CITATION.cff         software citation metadata
 ```
 
 See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). The implementation uses established interpolation, sparse-plus-low-rank, grouping and SciPy interfaces. No new normalization, first implicit NB-PCA method, universal time/RSS advantage or biological validation is claimed. Citation metadata contains no invented DOI or publication identifier.
