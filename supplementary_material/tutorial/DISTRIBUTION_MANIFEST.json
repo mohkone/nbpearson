@@ -1,0 +1,22 @@
+{
+  "distribution": "Full A/B/C reproducibility tutorial supplementary material",
+  "publication_authorized": true,
+  "public_access_verified": false,
+  "scope": "Frozen original synthetic tutorial and original nbpearson artifacts; no third-party distributions or biological data",
+  "files": [
+    {
+      "path": "ABC_TUTORIAL_S4_SUPPLEMENTARY_MATERIAL.zip",
+      "bytes": 54035,
+      "sha256": "33604f36e3562860b03a7f6505ad148c6d59ebc761b7ac74d37a69ed00077737"
+    },
+    {
+      "path": "TUTORIAL_PUBLICATION_CONTEXT.md",
+      "bytes": 3112,
+      "sha256": "b8a5dfd31dc99c4f54069eea7929a5feea69706350021d420e1ca919e74cad45"
+    }
+  ],
+  "self_exclusions": [
+    "DISTRIBUTION_MANIFEST.json",
+    "SHA256SUMS"
+  ]
+}
