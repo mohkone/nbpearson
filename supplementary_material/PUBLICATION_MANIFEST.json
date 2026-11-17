@@ -1,0 +1,36 @@
+{
+  "title": "nbpearson separately identified supplementary distributions",
+  "date": "2026-11-17",
+  "archive_files": [
+    {
+      "distribution": "tutorial",
+      "path": "tutorial/ABC_TUTORIAL_S4_SUPPLEMENTARY_MATERIAL.zip",
+      "bytes": 54035,
+      "sha256": "33604f36e3562860b03a7f6505ad148c6d59ebc761b7ac74d37a69ed00077737",
+      "scope": "Original full A/B/C synthetic tutorial, not the release C-only example; unchanged original ZIP.",
+      "doi": null
+    },
+    {
+      "distribution": "scientific",
+      "path": "scientific/scientific_evidence_supplementary_material.zip",
+      "bytes": 7429469,
+      "sha256": "2be22285ba9b770e146bdc289f8e0f2764557fa0009020b920dcc092fd06bc28",
+      "scope": "Unchanged 1,099-file candidate plus three wrappers; inspection of 66 completed and six noncompleted plans, not full executable reproduction.",
+      "doi": null
+    },
+    {
+      "distribution": "ai",
+      "path": "ai/nbpearson_AI_outputs_supplementary_material_v1.zip",
+      "bytes": 432851,
+      "sha256": "8704d5358ca5eefad26353f1a0fa1c2a5016d2c38b7475cceb83c86fab4af852",
+      "scope": "39 original inventory files, four legal context files and six public wrappers. Two superseded integrated texts excluded. Not private transcripts or a complete historical AI log.",
+      "doi": null
+    }
+  ],
+  "evaluated_commit": "c0f41107f888d69713c8e22e488bf1e7386f8c4d",
+  "released_commit": "e6ed51e58ddce5f12f39d6a36b59d42f240191ed",
+  "release_tag": "v0.1.0",
+  "package_version": "0.1.0.dev1",
+  "licence_scope": "Retain material-specific existing notices/attribution; no blanket nonsoftware licence or provider-data waiver is assigned.",
+  "excluded": "Withheld raw matrices and biological output arrays, third-party runtimes/dependency binaries, private conversations, personal paths and credentials; no unverified historical model metadata."
+}
